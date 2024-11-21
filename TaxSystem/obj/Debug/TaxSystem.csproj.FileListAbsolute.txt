@@ -1,0 +1,10 @@
+D:\Y3S2\C#\TaxSystem\TaxSystem\bin\Debug\TaxSystem.exe.config
+D:\Y3S2\C#\TaxSystem\TaxSystem\bin\Debug\TaxSystem.exe
+D:\Y3S2\C#\TaxSystem\TaxSystem\bin\Debug\TaxSystem.pdb
+D:\Y3S2\C#\TaxSystem\TaxSystem\obj\Debug\TaxSystem.csproj.AssemblyReference.cache
+D:\Y3S2\C#\TaxSystem\TaxSystem\obj\Debug\TaxSystem.frmTaxSystem.resources
+D:\Y3S2\C#\TaxSystem\TaxSystem\obj\Debug\TaxSystem.Properties.Resources.resources
+D:\Y3S2\C#\TaxSystem\TaxSystem\obj\Debug\TaxSystem.csproj.GenerateResource.cache
+D:\Y3S2\C#\TaxSystem\TaxSystem\obj\Debug\TaxSystem.csproj.CoreCompileInputs.cache
+D:\Y3S2\C#\TaxSystem\TaxSystem\obj\Debug\TaxSystem.exe
+D:\Y3S2\C#\TaxSystem\TaxSystem\obj\Debug\TaxSystem.pdb
